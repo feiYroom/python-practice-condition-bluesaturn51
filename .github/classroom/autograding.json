@@ -1,0 +1,95 @@
+{
+  "tests": [
+    {
+      "name": "is_even",
+      "run": "pytest -q tests/test_01_is_even.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "max_of_two",
+      "run": "pytest -q tests/test_02_max_of_two.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "sign",
+      "run": "pytest -q tests/test_03_sign.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "absolute_value",
+      "run": "pytest -q tests/test_04_absolute_value.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "grade_letter",
+      "run": "pytest -q tests/test_05_grade_letter.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "is_leap_year",
+      "run": "pytest -q tests/test_06_is_leap_year.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "min_of_three",
+      "run": "pytest -q tests/test_07_min_of_three.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "ticket_price",
+      "run": "pytest -q tests/test_08_ticket_price.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "fizz_label",
+      "run": "pytest -q tests/test_09_fizz_label.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "is_vowel",
+      "run": "pytest -q tests/test_10_is_vowel.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ],
+  "version": 0
+}
